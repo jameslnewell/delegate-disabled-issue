@@ -1,0 +1,7 @@
+{
+  "name": "disabled-buttom-issue",
+  "scripts": ["index.js"],
+  "dependencies": {
+    "component/delegate": "*"
+  }
+}
